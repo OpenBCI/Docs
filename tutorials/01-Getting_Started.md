@@ -6,7 +6,7 @@
 ![OpenBCI Contents](../assets/images/Contents8-bit.png)
 
  1. OpenBCI board
- 2. OpenBCI Dongle
+ 2. OpenBCI dongle
  3. OpenBCI Electrode Starter Kit (ESK) or your own electrodes (not pictured)
  4. 6V AA battery pack & (x4) AA batteries (batteries not included)
  5. (x4) plastic feet for board stabilization
