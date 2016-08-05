@@ -34,4 +34,4 @@ Want some ideas of how to play with the OpenBCI GUI? Check these out:
 
 ### Notes
 
-Much of what you will want to work with in the GUI code is in DataProcessing_User.pde. Here you will find filtered data, pre-coded peak finders for left and right eye blink detection, and more. With these ideas in mind, get coding, and be sure to keep the world updated on what you're doing with the [Community page](http://openbci.com/community/)!
+Much of what you will want to work with in the GUI code is in DataProcessing_User.pde. Here you will find filtered data, pre-coded peak finders for left and right eye blink detection, and more. In addition, the Developer Playground (Playground.pde) is meant for you to add your own widgets or functions to work with the GUI. With these ideas in mind, get coding, and be sure to keep the world updated on what you're doing with the [Community page](http://openbci.com/community/)!
