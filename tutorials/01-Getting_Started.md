@@ -3,7 +3,7 @@
 
 ## I. What You Need
 
-![OpenBCI Contents](../assets/images/Contents8-bit.png)
+![OpenBCI Contents](../assets/images/Contents8bit.png)
 
  1. OpenBCI board
  2. OpenBCI dongle
