@@ -83,6 +83,10 @@ On a Windows `C:\Users\Username\Documents\Processing\libraries`
 
 folder. If there is no folder called `libraries` in that location, go ahead and make one. Once you have done that, quit out of Processing. There's one more big step, and it means going back to the OpenBCI github repository.
 
+## Check USB Port Name
+
+Open OpenBCI_GUI in Processing, and search for "serial_output_portName". This value may need to be changed depending on your setup. If "OpenBCI_GUI.pde: could not open ..." is printed in output immediately after "OpenBCI_GUI.pde: attempting to open serial/COM port for data output ...", serial_output_portName may be incorrect.
+
 ## Install Ganglion Hub on Mac
 
 ![OBCI Electron github](../assets/images/ganglion_electron-github.png)   
