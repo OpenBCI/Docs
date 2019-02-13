@@ -100,21 +100,7 @@ Drag and drop the `OpenBCI_GUI` application to you `Applications` folder.
 
 ### Install OpenBCI_GUI On Windows
 
-Place the OpenBCI_GUI directory in your Program Files directory such that the structure looks like:
-
-`C:\\Program Files\OpenBCI_GUI\OpenBCI_GUI.exe`
-
-Note: The GUI may not run properly if installed in another location.
-
-![drag and drop](../assets/images/gui_windows_drag_and_drop.png)
-
-Right click on the executable -> properties -> compatibility -> tick "Run this program as an administrator".
-
-![set to run as admin always](../assets/images/gui_windows_properties_run_as_admin.PNG)
-
-Double click the executable to run it for the first time. You must check both check boxes if prompted.
-
-![accept networking](../assets/images/gui_windows_accept_networking.PNG)
+Move the `OpenBCI_GUI` directory anywhere you like.
 
 If you have a high DPI screen and are running windows 10, you may notice that the GUI is hard to see, and nothing seems to scale correctly. Select `Change high DPI Settings` and on the bottom drop down box, change from `Application` to `System (Enhanced)`.
 
@@ -137,7 +123,7 @@ Navigate to your `Applications` folder and double click the `OpenBCI_GUI` You ma
 
 ### Running on Windows
 
-Navigate to your `Program Files\OpenBCI_GUI` directory. If you set the properties to always start as administrator, double click OpenBCI_GUI.exe. Otherwise, right click on the executable and run as administrator.
+Navigate to your `OpenBCI_GUI` directory, double click `OpenBCI_GUI.exe`.
 
 If prompted, check both boxes:
 
@@ -214,10 +200,6 @@ Rename the directory you just unpacked to `OpenBCIHub` and move it to:
 `C:\users\<user-name>\Documents\Processing\OpenBCI_GUI\OpenBCI_GUI\data\`
 
 ![Hub Home](../assets/images/hub-installed-processing.png)
-
-Enter the new OpenBCIHub folder and right click on the executable -> properties -> compatibility -> tick "Run this program as an administrator".
-
-![set to run as admin always](../assets/images/gui_windows_properties_run_as_admin_hub.png)
 
 Then double click the executable to run it for the first time. You must check both check boxes when prompted.
 
